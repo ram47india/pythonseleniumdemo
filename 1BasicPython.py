@@ -50,3 +50,9 @@ print("Age:",age,"|","Type:",type(age))
 print(f"Height:{height} | Type:{type(height)}")
 print(f"Favorite Color:{favorite_color} | Type:{type(favorite_color)}")
 
+
+print("GIT demo push the changes to the remote repository")
+print("GIT demo push the changes to the remote repository")
+print("GIT demo push the changes to the remote repository")
+print("GIT demo push the changes to the remote repository")
+
